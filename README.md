@@ -1,3 +1,3 @@
 # module-b
 
-update v6
+update v7
