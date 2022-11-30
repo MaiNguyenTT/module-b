@@ -1,3 +1,3 @@
 # module-b
 
-update v8
+update v9
